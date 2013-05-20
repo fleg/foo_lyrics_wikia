@@ -1,5 +1,6 @@
-/[Dd]ebug
-/[Rr]elease
+[Dd]ebug/
+[Rr]elease/
+ipch/
 
 *.sdf
 *.opensdf

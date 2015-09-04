@@ -2,7 +2,7 @@
 #include "lyrics.h"
 #include <vector>
 
-DECLARE_COMPONENT_VERSION("foo_lyrics_wikia", "0.0.1","Simple lyrics component");
+DECLARE_COMPONENT_VERSION("foo_lyrics_wikia", "0.0.2","Simple lyrics component");
 
 static const GUID guid_lyrics_item = { 0xcf5f12bc, 0x588a, 0x4d39, { 0x84, 0x2c, 0xa7, 0x6a, 0xc5, 0x2a, 0x6d, 0x5a } };
 static const GUID guid_get_lyrics = { 0x4f8f50ed, 0x3a19, 0x4a62, { 0x86, 0xc3, 0x8b, 0xab, 0x98, 0xd0, 0x22, 0xa1 } };
